@@ -1,0 +1,2 @@
+app_Delay.c:3:6:delay_us	16	static
+app_Delay.c:10:6:delay_ms	24	static

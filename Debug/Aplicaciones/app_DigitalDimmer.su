@@ -1,0 +1,4 @@
+app_DigitalDimmer.c:20:6:app_CruceCero	16	static
+app_DigitalDimmer.c:33:6:app_Dimmer_Prueba	8	static
+app_DigitalDimmer.c:64:6:app_Dimmer	16	static
+app_DigitalDimmer.c:153:6:app_PIDDimmer	40	static

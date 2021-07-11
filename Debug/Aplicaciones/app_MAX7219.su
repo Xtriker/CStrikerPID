@@ -1,0 +1,11 @@
+app_MAX7219.c:19:6:SPI_CS_ENABLE	8	static
+app_MAX7219.c:26:6:SPI_CS_DISABLE	8	static
+app_MAX7219.c:32:6:SPI_Transmit	16	static
+app_MAX7219.c:37:6:app_InitMAX7219	8	static
+app_MAX7219.c:70:6:app_NumeroAMAX7219	24	static
+app_MAX7219.c:82:6:app_ApagarDisplay	8	static
+app_MAX7219.c:90:6:app_EncenderDisplay	8	static
+app_MAX7219.c:98:6:app_BrilloDisplay	16	static
+app_MAX7219.c:108:6:app_LimpiarDisplays	16	static
+app_MAX7219.c:119:6:app_LimpiarDisplay	16	static
+app_MAX7219.c:127:6:app_TestMX7219	16	static
